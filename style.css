@@ -5,6 +5,7 @@
     background: radial-gradient(circle farthest-corner at 100px 50px, #c8a1e7, #352A3B);
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 20px;
 
 }
 .logo {
